@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiLike", "ApiLike\ApiLike.csproj", "{F1E50500-6926-4D9F-9771-9AA84782D75B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1E50500-6926-4D9F-9771-9AA84782D75B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1E50500-6926-4D9F-9771-9AA84782D75B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1E50500-6926-4D9F-9771-9AA84782D75B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1E50500-6926-4D9F-9771-9AA84782D75B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1155B103-6FFE-4714-8A5C-CAA3D6ACF690}
+	EndGlobalSection
+EndGlobal
