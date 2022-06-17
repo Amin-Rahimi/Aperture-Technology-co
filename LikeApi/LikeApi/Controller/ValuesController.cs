@@ -10,14 +10,14 @@ namespace LikeApi.Controller
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2", "value3" };
+            return new string[] { "Muhammad", "Amin", "Reza" };
         }
 
         [HttpGet("{id}")]
 
         public string Get(int id)
         {
-            return "the value is " + id;
+            return "the name is " + id;
         }
     }
 }
